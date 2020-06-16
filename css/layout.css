@@ -1,0 +1,45 @@
+
+.header{
+    background-color:darkgray;
+    color: white;
+    font-size: 25px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+}
+
+.sidebar{
+    background-color:white;
+    color: black;
+    font-size: 25px;
+    height: 400px;
+    width: 33%;
+    text-align: center;
+    line-height: 1000px;
+    float: left;
+}
+
+.mainContent{
+    background-color:lightgray;
+    color: black;
+    font-size: 25px;
+    height: 1200px;
+    width: 66%;
+    text-align: center;
+    line-height: 1000px;
+    float: right;
+}
+
+.footer{
+    background-color: gray;
+    color: white;
+    font-size: 25px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+    position: fixed;
+    left: 0;
+    bottom: 0;   
+}
